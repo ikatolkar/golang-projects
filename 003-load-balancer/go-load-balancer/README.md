@@ -1,5 +1,8 @@
 # go-load-balancer
-Creates a reverse proxy which redirects to available servers picked on a round robin basis
+Load balancer
+- Keeps a list of servers
+- Picks an available server on a round robin basis
+- Creates a reverse proxy which redirects to the available server
 
 ```bash
 go run main.go
