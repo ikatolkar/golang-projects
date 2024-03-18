@@ -9,3 +9,4 @@ GOLANG LEARNING PROJECTS
 | 13 March 2024 | 003-load-balancer | Load Balancer with Round Robin |
 | 14 March 2024 | 004-rate-limiter  | Rate limiter per client, token bucket, tollbooth |
 | 16 March 2024 | 005-fiber-gorm-crm | CRM using go-fiber, gorm and sqlite | 
+| 18 March 2024 | 006-diy-database | Database from scratch, JSON database, maintains data integrity |

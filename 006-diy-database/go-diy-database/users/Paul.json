@@ -1,0 +1,12 @@
+{
+	"name": "Paul",
+	"age": 33,
+	"contact": "322233344",
+	"company": "Facebook",
+	"address": {
+		"City": "New york",
+		"State": "NYC",
+		"Country": "USA",
+		"Pincode": 145
+	}
+}

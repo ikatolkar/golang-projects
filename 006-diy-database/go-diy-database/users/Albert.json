@@ -1,0 +1,12 @@
+{
+	"name": "Albert",
+	"age": 53,
+	"contact": "522233344",
+	"company": "Google",
+	"address": {
+		"City": "Kyoto",
+		"State": "Kyoto",
+		"Country": "Japan",
+		"Pincode": 345
+	}
+}
