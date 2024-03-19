@@ -10,3 +10,4 @@ GOLANG LEARNING PROJECTS
 | 14 March 2024 | 004-rate-limiter  | Rate limiter per client, token bucket, tollbooth |
 | 16 March 2024 | 005-fiber-gorm-crm | CRM using go-fiber, gorm and sqlite | 
 | 18 March 2024 | 006-diy-database | Database from scratch, JSON database, maintains data integrity |
+| 18 March 2024 | 007-text-search-engine | Text search engine |

@@ -12,6 +12,8 @@ import (
 
 const Version = "1.0.0"
 
+type ishan struct
+
 type (
     Logger interface{
         Fatal(string, ...interface{})
