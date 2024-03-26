@@ -13,3 +13,4 @@ GOLANG LEARNING PROJECTS
 | 18 March 2024 | 007-text-search-engine | Text search engine |
 | 20 March 2024 | 008-ai-bot-slack-wit-wolfram-TBD | AI Slack Bot using WIT AI, Wolfram |
 | 21 March 2024 | 009-url-shortener | URL Shortener using Go-Fiber and Redis |
+| 25 March 2024 | 010-simple-blockchain | Simple blockchain from scratch in go |
