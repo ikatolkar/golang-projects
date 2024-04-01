@@ -15,3 +15,4 @@ GOLANG LEARNING PROJECTS
 | 21 March 2024 | 009-url-shortener | URL Shortener using Go-Fiber and Redis |
 | 25 March 2024 | 010-simple-blockchain | Simple blockchain from scratch in go |
 | 27 March 2024 | 011-go-rabbitmq | Simple producer consumer in go using rabbitmq | 
+| 01 April 2024 | 012-grpc-server-client | GRPC Server Client with unary, one-directional server/client, bi-directional streaming |
